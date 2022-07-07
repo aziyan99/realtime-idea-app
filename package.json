@@ -14,6 +14,6 @@
     "@feathersjs/express": "^4.4.1",
     "@feathersjs/feathers": "^4.4.1",
     "@feathersjs/socketio": "^4.4.1",
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   }
 }
