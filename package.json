@@ -13,7 +13,7 @@
   "dependencies": {
     "@feathersjs/express": "^4.4.1",
     "@feathersjs/feathers": "^4.4.1",
-    "@feathersjs/socketio": "^4.4.1",
+    "@feathersjs/socketio": "^5.0.29",
     "moment": "^2.24.0"
   }
 }
